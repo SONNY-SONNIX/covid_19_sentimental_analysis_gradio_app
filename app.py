@@ -1,3 +1,5 @@
+pip install transformers 
+
 import pandas as pd 
 import gradio as gr
 import numpy as np
