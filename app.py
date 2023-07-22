@@ -1,4 +1,4 @@
-pip install transformers 
+
 
 import pandas as pd 
 import gradio as gr
