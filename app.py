@@ -3,6 +3,7 @@ import gradio as gr
 import numpy as np
 import nltk
 import joblib
+import transformers
 from transformers import RobertaForSequenceClassification
 from transformers import AutoTokenizer
 from transformers import pipeline 
