@@ -14,7 +14,7 @@ import joblib
 
 
 # Disabe W&B
-os.environ["WANDB_DISABLED"] = "true"
+#os.environ["WANDB_DISABLED"] = "true"
 #Load the model
 # model = joblib.load("models/sentiment_analysis_model.joblib")
 
