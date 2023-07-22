@@ -33,5 +33,5 @@ import joblib
 # demo = gr.Interface(fn=predict_sentiment, input=gr.inputs.Textbox(),outputs="text")
 # demo.launch()
 
-demo = gr.Interface(input=gr.inputs.Textbox(),outputs="text")
+demo = gr.Interface(fn= ,input=gr.inputs.Textbox(),outputs="text")
 demo.launch()
