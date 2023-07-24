@@ -11,9 +11,10 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-Sentiment Analysis with Twitter RoBERTa
+#Sentiment Analysis with Twitter RoBERTa
 
-This code demonstrates a Sentiment Analysis application using the Twitter RoBERTa model. The model predicts whether a given text is positive, negative, or neutral in sentiment.
+This code demonstrates a Sentiment Analysis application using the Twitter RoBERTa model.
+The model predicts whether a given text is positive, negative, or neutral in sentiment.
 
 Setup and Dependencies
 
