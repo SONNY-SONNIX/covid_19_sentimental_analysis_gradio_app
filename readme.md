@@ -7,5 +7,5 @@ The creation of COVID-19 vaccinations was a key milestone in public health, sugg
 # Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| P5|The Sentiment Analysis Project| [Article]https://medium.com/@otchie.sonny/covid-19-vaccination-sentiment-analysis-and-deployment-as-a-gradio-web-app-on-huggingface-ef01c8ff851d| [Deployed App]([(https://huggingface.co/spaces/Sonny4Sonnix/Covid_tweets_sentimental_analysis_app)] |
+| P5|The Sentiment Analysis Project| [Article]https://medium.com/@otchie.sonny/covid-19-vaccination-sentiment-analysis-and-deployment-as-a-gradio-web-app-on-huggingface-ef01c8ff851d| [Deployed App](https://huggingface.co/spaces/Sonny4Sonnix/Covid_tweets_sentimental_analysis_app) |
 
