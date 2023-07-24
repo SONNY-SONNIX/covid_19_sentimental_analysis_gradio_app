@@ -11,12 +11,12 @@ pinned: false
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
-# Sentiment Analysis with Twitter RoBERTa
+### Sentiment Analysis with Twitter RoBERTa
 
 This code demonstrates a Sentiment Analysis application using the Twitter RoBERTa model.
 The model predicts whether a given text is positive, negative, or neutral in sentiment.
 
-# Setup and Dependencies
+### Setup and Dependencies
 
 To run the code, ensure you have the required dependencies installed:
 
@@ -25,6 +25,7 @@ gradio: A web-based interface for interactive machine learning model deployment.
 transformers: A library for state-of-the-art Natural Language Processing models.
 
 torch :
+
 You can install the necessary packages using pip:
 
 bash
