@@ -2,7 +2,19 @@
  
  ### Introduction
  
-The creation of COVID-19 vaccinations was a key milestone in public health, suggesting a solution to restrict the virus’s transmission and save lives. However, the ‘anti-vaxxer’ movement has emerged in some regions, leading to lower vaccination rates and potential outbreaks of preventable diseases. To help solve this issue, I created a gradio web app by fine-tuning some huggingface text classification models. The 3 test classification models I fine-tuned were Twitter_roBETRa_base, distilbert-base-uncased and BERT-base-uncased. These models can assess public sentiment toward vaccination by categorizing Twitter messages as favorable, neutral, or negative. Governments and public health players can better understand the prevailing attitudes by monitoring sentiment and tailoring communication methods and immunization programs accordingly.
+The creation of COVID-19 vaccinations was a key milestone in public health, suggesting a solution to restrict the virus’s
+
+transmission and save lives. However, the ‘anti-vaxxer’ movement has emerged in some regions, leading to lower vaccination
+
+rates and potential outbreaks of preventable diseases. To help solve this issue, I created a gradio web app by fine-tuning 
+
+some huggingface text classification models. The 3 test classification models I fine-tuned were Twitter_roBETRa_base, 
+
+distilbert-base-uncased and BERT-base-uncased. These models can assess public sentiment toward vaccination by categorizing 
+
+Twitter messages as favorable, neutral, or negative. Governments and public health players can better understand the 
+
+prevailing attitudes by monitoring sentiment and tailoring communication methods and immunization programs accordingly.
 
 
 
