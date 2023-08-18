@@ -21,7 +21,7 @@ prevailing attitudes by monitoring sentiment and tailoring communication methods
 # Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| P5|The Sentiment Analysis Project| [Article]https://medium.com/@otchie.sonny/covid-19-vaccination-sentiment-analysis-and-deployment-as-a-gradio-web-app-on-huggingface-ef01c8ff851d| [Deployed App](https://huggingface.co/spaces/Sonny4Sonnix/Covid_tweets_sentimental_analysis_app) |
+| P5|The Sentiment Analysis Project| [Article](https://medium.com/@otchie.sonny/covid-19-vaccination-sentiment-analysis-and-deployment-as-a-gradio-web-app-on-huggingface-ef01c8ff851d)| [Deployed App](https://huggingface.co/spaces/Sonny4Sonnix/Covid_tweets_sentimental_analysis_app) |
 
 Gradio_App
 
